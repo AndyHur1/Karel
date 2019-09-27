@@ -21,8 +21,21 @@ public class KarelLabThree {
         karel.move();
         karel.move();
         karel.turnLeft();
-        karel.turnLeft();
-        karel.turnLeft();
+        carel.turnLeft();
+        carel.turnLeft();
+        carel.turnLeft();
+        carel.pickThing();
+        carel.move();
+        carel.move();
+        carel.putThing();
+        carel.turnLeft();
+        carel.turnLeft();
+        carel.move();
+        carel.move();
+        carel.turnLeft();
+        carel.turnLeft();
+        carel.turnLeft();
+
 
 
 
